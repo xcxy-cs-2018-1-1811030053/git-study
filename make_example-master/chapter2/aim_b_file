@@ -1,0 +1,5 @@
+#this is aim_b file
+.PHONY:aim_b
+
+all:
+	@echo "all in aim_b"
